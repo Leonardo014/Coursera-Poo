@@ -4,4 +4,4 @@
     - Os dois são professores do ITA
 
 ## Motivação dada ao Professor Leandro Luque. 
-* Pratica e introdução a orientação a objetos com Java. 
+* Prática e introdução a orientação a objetos com Java. 
